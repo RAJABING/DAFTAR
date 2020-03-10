@@ -2,10 +2,10 @@ clear
 echo "================"
 echo $red "1.) BINGKU|"
 echo "================"
-read -p "PILIH TOOLS UNTUK MASUK :" tuan
+read -p "pilihmana TUAN:" bro
 
 
-if [ $tuan = 1 ] || [ $tuan = 1 ]
+if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 git clone https://github.com/RAJABING/bingku
