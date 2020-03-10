@@ -2,7 +2,7 @@ clear
 echo "================"
 echo $red "1.) BINGKU|"
 echo "================"
-read -p "PILIH TOOLS UNTUK MASUK :"tuan
+read -p "PILIH TOOLS UNTUK MASUK :" tuan
 
 
 if [ $tuan = 1 ] || [ $tuan = 1 ]
